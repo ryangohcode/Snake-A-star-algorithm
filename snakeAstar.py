@@ -56,7 +56,7 @@ food.goto(xfood,yfood)
 eat_ammount = 0
 segments = []
 x1list = []
-y1list = [1]
+y1list = []
 
 # Pen
 pen = turtle.Turtle()
